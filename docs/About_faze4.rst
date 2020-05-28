@@ -38,6 +38,7 @@ This project is completely Open source and free to all and I would like to keep 
 in terms of donations or advice is really appreciated.Thank you!
 
 .. image:: ../docs/images/PayPal-Donate-Button-PNG-Clipart.png
+   :width: 100
    :target: https://www.buymeacoffee.com/Blestron
 
     
