@@ -40,10 +40,8 @@ in terms of donations or advice is really appreciated.Thank you!
     :figwidth: 300px
     :target: ../docs/images/PayPal-Donate-Button-PNG-Clipart.png
     
+ |ImageLink|_
+
+.. |ImageLink| image:: /docs/images/PayPal-Donate-Button-PNG-Clipart.png
+.. _ImageLink: https://www.buymeacoffee.com/Blestron
     
-    .. raw:: html
-
-    <a href="https://www.google.com/">
-        <img src="https://img.shields.io/static/v1?&style=plastic&logo=appveyor&label=Google&message=link2google&color=FF0000" alt="No message"/></a>
-
-
