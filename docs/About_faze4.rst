@@ -12,7 +12,7 @@ Faze4 robotic arm came to be when i made a working 3d printable cycloidal gearbo
     This project is still work in progres. Part that is work in progres is control cabinet, that means that the arm can be built and it     will work without the cabinet.
 
 .. figure:: ../docs/images/6163881566306270006.jpg
-    :figwidth: 500px
+    :figwidth: 550px
     :target: ../docs/images/6163881566306270006.jpg
 
 
@@ -35,10 +35,9 @@ On this read the docs page you will find:
 
 
 This project is completely Open source and free to all and I would like to keep it that way, so any help 
-in terms of donations or advice is really appreciated.Thank you!
-
+in terms of donations or advice is really appreciated. Thank you!
 .. image:: ../docs/images/PayPal-Donate-Button-PNG-Clipart.png
-   :width: 100
+   :width: 250
    :target: https://www.buymeacoffee.com/Blestron
 
     
