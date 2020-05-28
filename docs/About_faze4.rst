@@ -48,10 +48,6 @@ Check the arm in action !
     </div>
 
 
-
-
-
-
 Support the project
 -------------------
 
