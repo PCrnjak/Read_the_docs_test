@@ -36,11 +36,7 @@ On this read the docs page you will find:
 This project is completely Open source and free to all and I would like to keep it that way, so any help 
 in terms of donations or advice is really appreciated.Thank you!
 
-.. figure:: ../docs/images/PayPal-Donate-Button-PNG-Clipart.png
-    :figwidth: 300px
-    :target: ../docs/images/PayPal-Donate-Button-PNG-Clipart.png
-    
- |ImageLink|_
+|ImageLink|_
 
 .. |ImageLink| image:: /docs/images/PayPal-Donate-Button-PNG-Clipart.png
 .. _ImageLink: https://www.buymeacoffee.com/Blestron
