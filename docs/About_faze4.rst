@@ -32,6 +32,14 @@ On this read the docs page you will find:
 * How to test and troubleshoot
 * Sources 
 * Where to buy parts
+* How is arm desing and desing decisions
+* Printing tips
+* Electronics guide and PCB
+* Building instructions for the arm
+* All code and programs used
+* How to test and troubleshoot
+* Sources 
+* Where to buy parts
 
 This project is completely Open source and free to all and I would like to keep it that way, so any help 
 in terms of donations or advice is really appreciated.Thank you!
