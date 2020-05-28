@@ -38,6 +38,20 @@ On this read the docs page you will find:
 * Sources 
 * Where to buy parts
 
+Check the arm in action !
+-------------------------
+
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="350" src="https://www.youtube.com/watch?v=-qTVx23o6C0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
+
+
+
+
+
 Support the project
 -------------------
 
