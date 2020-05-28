@@ -48,4 +48,9 @@ in terms of donations or advice is really appreciated.Thank you!
 
 .. |ImageLink| image:: /docs/images/PayPal-Donate-Button-PNG-Clipart.png
 .. _ImageLink: https://www.buymeacoffee.com/Blestron
+
+
+.. image:: /docs/images/PayPal-Donate-Button-PNG-Clipart.png
+   :target: https://www.buymeacoffee.com/Blestron
+
     
