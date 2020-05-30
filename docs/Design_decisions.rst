@@ -22,7 +22,7 @@ Spherical wrist
 ---------------
 
 This arm uses so called spherical wrist. Spherical wrist is configuration of joints where axes of rotation for joints 4,5,6 intersect.
-You can see that in picture below. You will see this configuration in a lot industrial robot arm. 
+You can see that in picture below. It is complicated mechanical system that in turn simplifies solving inverse kinematics for robot arm. You will see this configuration in a lot industrial robot arm. 
 
 .. figure:: ../docs/images/slikaosirotacije.png
     :figwidth: 400px
