@@ -4,6 +4,8 @@ About Faze4
 .. meta::
    :description lang=en: General info about Faze4 robotic arm.
 
+General info
+------------
 
 Faze4 robotic arm came to be when i made a working 3d printable cycloidal gearbox and saw some potential in it. After that i designed whole arm around it. It uses 6 stepper motors, so it is a 6 axis robot arm. While designing this arm i focused on low backlash and good design of arm. All wires are hidden and arm is really rigid even tho it is 3d printed. Total cost of the arm is around 1000 - 1500 dollars.
 
