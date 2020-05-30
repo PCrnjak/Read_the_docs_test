@@ -43,10 +43,11 @@ On this read the docs page you will find:
 Check the arm in action !
 -------------------------
 
-..  youtube:: OHw6_l_8Tnk
-    :width: 640
-    :height: 480
+.. raw:: html
 
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="350" src="https://www.youtube.com/embed/oJsUvBQyHBs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
 
 Support the project
 -------------------
