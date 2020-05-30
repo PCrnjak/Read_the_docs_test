@@ -15,8 +15,8 @@ Faze4 robotic arm came to be when i made a working 3d printable cycloidal gearbo
     
 Thanks to the:
 --------------
- `Peter Corke for his amazing robotics toolbox for Matlab`_
-* `Maximilian_Schommer for his cycloidal drive generator`__
+* `Peter Corke for his amazing robotics toolbox for Matlab`
+* `Maximilian_Schommer for his cycloidal drive generator`
 
 .. _Peter Corke for his amazing robotics toolbox for Matlab: https://petercorke.com/toolboxes/robotics-toolbox/
 .. _Maximilian_Schommer for his cycloidal drive generator: https://forum.onshape.com/discussion/7567/cycloidal-gear-generator
