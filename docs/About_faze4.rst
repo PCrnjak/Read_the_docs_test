@@ -43,11 +43,9 @@ On this read the docs page you will find:
 Check the arm in action !
 -------------------------
 
-.. raw:: html
-
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/watch?v=-qTVx23o6C0" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div>
+..  youtube:: -qTVx23o6C0
+    :width: 640
+    :height: 480
 
 
 Support the project
