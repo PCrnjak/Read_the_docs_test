@@ -43,7 +43,7 @@ On this read the docs page you will find:
 Check the arm in action !
 -------------------------
 
-..  youtube:: oHg5SJYRHA0
+..  youtube:: OHw6_l_8Tnk
     :width: 640
     :height: 480
 
