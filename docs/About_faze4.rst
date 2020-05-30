@@ -12,6 +12,14 @@ Faze4 robotic arm came to be when i made a working 3d printable cycloidal gearbo
 .. note::
 
     This project is still work in progres. Part that is work in progres is control cabinet, that means that the arm can be built and it     will work without the cabinet.
+    
+Thanks to the:
+--------------
+ `Peter Corke for his amazing robotics toolbox for Matlab`_
+* `Maximilian_Schommer for his cycloidal drive generator`__
+
+.. _Peter Corke for his amazing robotics toolbox for Matlab: https://petercorke.com/toolboxes/robotics-toolbox/
+.. _Maximilian_Schommer for his cycloidal drive generator: https://forum.onshape.com/discussion/7567/cycloidal-gear-generator
 
 .. figure:: ../docs/images/6163881566306270006.jpg
     :figwidth: 650px
