@@ -18,6 +18,9 @@ Both pictures show arm at position x=0.3m , y=0.3m and z=0.2m but as you can see
     :figwidth: 400px
     :target: ../docs/images/30&180&90.png
 
+Spherical wrist
+---------------
+
 This arm uses so called spherical wrist. Spherical wrist is configuration of joints where axes of rotation for joints 4,5,6 intersect.
 You can see that in picture below. You will see this configuration in a lot industrial robot arm. 
 
