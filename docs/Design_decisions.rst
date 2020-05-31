@@ -40,9 +40,9 @@ Why cycloidal reducers?
 * cheap
 * low backlash even when 3d printed
 
-.. figure:: ../docs/images/reducer.png
+.. figure:: ../docs/images/reducer.jpg
     :figwidth: 400px
-    :target: ../docs/images/reducer.png
+    :target: ../docs/images/reducer.jpg
 
 When 3d printing them there are few things to keep in mind but that is discused in sections troubleshooting and printing.
 
