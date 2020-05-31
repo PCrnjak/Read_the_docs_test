@@ -44,7 +44,8 @@ Why cycloidal reducers?
     :figwidth: 400px
     :target: ../docs/images/reducer.jpg
 
-When 3d printing them there are few things to keep in mind but that is discused in sections troubleshooting and printing.
+.. note::
+   When 3d printing them there are few things to keep in mind but that is discused in sections troubleshooting and printing.
 
 Motor position
 --------------
