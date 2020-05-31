@@ -40,7 +40,9 @@ Why cycloidal reducers?
 * cheap
 * low backlash even when 3d printed
 
-slika
+.. figure:: ../docs/images/reducer.png
+    :figwidth: 400px
+    :target: ../docs/images/reducer.png
 
 When 3d printing them there are few things to keep in mind but that is discused in sections troubleshooting and printing.
 
@@ -49,7 +51,9 @@ Motor position
 
 Firstly i wanted to move all motors to the base of the arm to reduce weight each motor should carry. First idea was to just copy the design of this(link) kuka arm. I decided against that design and just went with probably most basic design where every motor is directly on the joint of actuation ( Except for joint 5 that i moved a little bit away).This is not good idea actually and if I was redesigning this arm I would try to move atleast joint 3 to the bottom of the arm, but what is done is done.
 
-slika
+.. figure:: ../docs/images/joints.png
+    :figwidth: 400px
+    :target: ../docs/images/joints.png
 
 Joints 1,4 and 5 use belts in addition to cycloidal reducers. Belts are mostly used to offset the place where joint will be rotating so that we can route wires thru the body of robot. They also give some additional reduction ratio. For example Joint 1 has 15:1 cyclo but with belt our reduction ratio jumps to 25:1.
 
