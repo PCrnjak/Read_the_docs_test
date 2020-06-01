@@ -15,9 +15,9 @@ Printer
 
 All parts are designed to be printed on Prusa MK2S, so if you have printer with build volume of 250x210x200 you are good to go.
 
-.. figure:: ../docs/images/6163881566306270006.jpg
-    :figwidth: 650px
-    :target: ../docs/images/6163881566306270006.jpg
+.. figure:: ../docs/images/IMG_20181220_075159.jpg
+    :figwidth: 450px
+    :target: ../docs/images/IMG_20181220_075159.jpg
 
 Print settings and tips
 ------------------------
