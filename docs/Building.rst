@@ -5,7 +5,7 @@ Building
 .. meta::
    :description lang=en: Instructions and tips to build mechanical part of the arm.
    
-.. Note::
+.. note::
 
 All parts can be bought from ebay and similiar online stores. I bought all steppers,drivers and PSUs from stepper online. You can buy screws used for this arm in online stores but i sourced them locally and that was much cheaper. I also recommend to buy wires (you will need them to extemd stepper wires) locally since ones on ebay and similar stores are of questionable quality.
 
