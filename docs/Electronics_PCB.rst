@@ -5,9 +5,11 @@ Electronics and PCB
 .. meta::
    :description lang=en: info about Electronics and PCB.
    
-.. note::
+All electronics can also be bought from ebay and similar sites. 
 
-   All parts can be bought from ebay and similiar online stores. I bought all steppers,drivers and PSUs from stepper online. You can buy    screws used for this arm in online stores but i sourced them locally and that was much cheaper. I also recommend to buy wires (you      will need them to extemd stepper wires) locally since ones on ebay and similar stores are of questionable quality.
+.. Tip::
+
+   From experiance i found out that cheaper stepper drivers tend to make more noise, so if you want quiet robot arm buy more expensive      drivers.
 
 
 BOM
