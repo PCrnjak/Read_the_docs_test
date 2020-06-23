@@ -68,8 +68,8 @@ Reduction ratios:
 * Joint 5 -> 11:1 cycloidal reducer and 1:1 belt reduction = combined resulting in 11:1 reduction
 * Joint 6 -> 19.19:1 planetary reducer
 
-Joint 1 belt is HTD 5M 490 mm timing belt 10 mm wide and needs to be tightened with bearings
-Joint 4 belt is HTD 5M 430 mm timing belt 10 mm wide does not need to be tightened
-Joint 5 belt is HTD 5M 285 mm timing belt 10 mm wide and needs to be tightened with bearings
+* Joint 1 belt is HTD 5M 490 mm timing belt 10 mm wide and needs to be tightened with bearings
+* Joint 4 belt is HTD 5M 430 mm timing belt 10 mm wide does not need to be tightened
+* Joint 5 belt is HTD 5M 285 mm timing belt 10 mm wide and needs to be tightened with bearings
 
 
