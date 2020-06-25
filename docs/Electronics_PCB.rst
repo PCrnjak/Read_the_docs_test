@@ -41,4 +41,4 @@ Now i made some mistakes and not all drivers can be connected like that. In pict
     :target: ../docs/images/sim_plocica_with_labels.png
 
 After wiring all dir,puls and enable pins you are left with power pins on stepper driver and A- A+ B- B+ Pins. Those are quite straightforward. 
-
+Pins that have ext in name are extra pins that are now used in my version of arm.
