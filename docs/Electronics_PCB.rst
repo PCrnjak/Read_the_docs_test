@@ -16,7 +16,10 @@ PCB V1
 ------------
 This PCB is first version and has some errors that will be fixed in revision 2.
 Board was created in Altium Circuitmaker and all files can be found here:
-https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Distribution_PCB.zip
+
+* `All data about PCB`_
+
+.. _All data about PCB: https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Distribution_PCB.zip
 
 .. figure:: ../docs/images/plocica_v1.jpg
     :figwidth: 400px
