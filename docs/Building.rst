@@ -9,7 +9,7 @@ Building
 
    All parts can be bought from ebay and similiar online stores. I bought all steppers,drivers and PSUs from stepper online. You can buy    screws used for this arm in online stores but i sourced them locally and that was much cheaper. I also recommend to buy wires (you      will need them to extemd stepper wires) locally since ones on ebay and similar stores are of questionable quality.
 
-* `Full assembly instructions are here: `_
+* `Full assembly instructions are here: `
 
 .. _Full assembly instructions are here: https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%202.0.pdf
 
