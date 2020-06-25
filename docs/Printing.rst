@@ -22,7 +22,7 @@ All parts are designed to be printed on Prusa MK2S, so if you have printer with 
 Print settings and tips
 ------------------------
 
-I printed all smaller parts with 0.15 layer height and all larger with 0.35 layer height.For infill try to stay in 25%-30% range. I used 3 outer parimeters and 7 top and 5 bottom layers.
+I printed all smaller parts with 0.15 layer height and all larger with 0.35 layer height.For infill try to stay in 25%-30% range. I used 3 outer perimeters and 7 top and 5 bottom layers.
 
 .. Tip::
 
