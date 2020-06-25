@@ -31,13 +31,13 @@ Bottom right side has 5V input and 24V input. You need both for arm to work. In 
 When wiring stepper drivers to the PCB i used TB6600  driver pinout as reference.I planned for all drivers to be connected like picture below. HIGH signal on ENABLE + pin would enable stepper drivers. Now i made some mistakes and not all drivers can be connected like that. In 
 
 .. figure:: ../docs/images/stepper_connection.png
-    :figwidth: 400px
+    :figwidth: 500px
     :target: ../docs/images/stepper_connection.png
     
 Now i made some mistakes and not all drivers can be connected like that. In picture below you can see how to connect all drivers. As you can see for joint 5 (connector below top one) i switched enable and puls pins. That means that puls5 pin ( pin 38 on teensy) is connected to puls pin on stepper driver. I also skipped Port that has no 5V level shifters since it didnt work well.
 
 .. figure:: ../docs/images/sim_plocica_with_labels.png
-    :figwidth: 400px
+    :figwidth: 500px
     :target: ../docs/images/sim_plocica_with_labels.png
 
 
