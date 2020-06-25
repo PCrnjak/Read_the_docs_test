@@ -28,7 +28,7 @@ You can see that in picture below. It is complicated mechanical system that in t
     :figwidth: 400px
     :target: ../docs/images/slikaosirotacije.png
     
-All wires are routed thru the midle of the arm and cant be seen.
+All wires are routed thru the middle of the arm and cant be seen.
 
 Cycloidal reducer
 -----------------
@@ -45,12 +45,12 @@ Why cycloidal reducers?
     :target: ../docs/images/reducer.jpg
 
 .. note::
-   When 3d printing them there are few things to keep in mind but that is discused in sections troubleshooting and printing.
+   When 3d printing them there are few things to keep in mind but that is discussed in sections troubleshooting and printing.
 
 Motor position
 --------------
 
-Firstly i wanted to move all motors to the base of the arm to reduce weight each motor should carry. First idea was to just copy the design of this(link) kuka arm. I decided against that design and just went with probably most basic design where every motor is directly on the joint of actuation ( Except for joint 5 that i moved a little bit away).This is not good idea actually and if I was redesigning this arm I would try to move atleast joint 3 to the bottom of the arm, but what is done is done.
+Firstly i wanted to move all motors to the base of the arm to reduce weight each motor should carry. First idea was to just copy the design of this(link) kuka arm. I decided against that design and just went with probably most basic design where every motor is directly on the joint of actuation ( Except for joint 5 that i moved a little bit away).This is not good idea actually and if I was redesigning this arm I would try to move at least joint 3 to the bottom of the arm, but what is done is done.
 
 .. figure:: ../docs/images/joints.png
     :figwidth: 400px
