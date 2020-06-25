@@ -11,7 +11,7 @@ Faze4 robotic arm came to be when i made a working 3d printable cycloidal gearbo
 
 .. note::
 
-    This project is still work in progres. Part that is work in progres is control cabinet, that means that the arm can be built and it     will work without the cabinet.
+    This project is still work in progress. Part that is work in progress is control cabinet, that means that the arm can be built and it     will work without the cabinet.
     
 .. figure:: ../docs/images/6163881566306270006.jpg
     :figwidth: 650px
@@ -24,14 +24,14 @@ Only visible wires (or pipes) would be ones for gripper.
 
 Weight of the arm is around 14-15 kg , but it can be reduced by printing with less infill.
 
-Low level control for the arm runs on teesny 3.5, while high level (inverse kinemtaics, simulations) are only on Matlab code atm, but I am working on ROS implementation and porting my Matlab code to Python.
+Low level control for the arm runs on teesny 3.5, while high level (inverse kinematics, simulations) are only on Matlab code atm, but I am working on ROS implementation and porting my Matlab code to Python.
 
 Table of contents
 -----------------
 
 On this read the docs page you will find:
 
-* How is arm desing and desing decisions
+* How is arm desinged and desing decisions
 * Printing tips
 * Electronics guide and PCB
 * Building instructions for the arm
