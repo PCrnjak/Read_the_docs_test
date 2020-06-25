@@ -5,11 +5,11 @@ Electronics and PCB
 .. meta::
    :description lang=en: info about Electronics and PCB.
    
-All electronics can also be bought from ebay and similar sites. 
+All electronics can also be bought from ebay and similar sites. I used cheap stepper drivers from ebay but you can buy any stepper driver that can supply enough current for the steppers.
 
 .. Tip::
 
-   From experiance i found out that cheaper stepper drivers tend to make more noise, so if you want quiet robot arm buy more expensive      drivers.
+   From experiance i found out that cheaper stepper drivers tend to make more noise, so if you want quiet robot arm buy more expensive drivers. I found ones from stepperonline good.
 
 
 PCB V1
@@ -40,4 +40,5 @@ Now i made some mistakes and not all drivers can be connected like that. In pict
     :figwidth: 500px
     :target: ../docs/images/sim_plocica_with_labels.png
 
+After wiring all dir,puls and enable pins you are left with power pins on stepper driver and A- A+ B- B+ Pins. Those are quite straightforward. 
 
