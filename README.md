@@ -2,13 +2,13 @@
 
 
 <img src="https://user-images.githubusercontent.com/30388414/86795587-028dbb80-c06e-11ea-9d71-3d6fbda6cb87.png" width="1200"> 
-Faze4 is small fully 3d printable diy 6 axis robotic arm. It is functionally and esteticaly similar to robotic arms in industry but is aimed for research, education and 
+Faze4 is small fully 3d printable Open source 6 axis robotic arm. It is functionally and esthetically similar to robotic arms in industry but is aimed for research, education and 
 anyone interested in making his own robot arm. 
-Main "selling point" of this arm that seperate it from other DIY arms are:
+Main "selling point" of this arm that separate it from other DIY arms are:
 
 
-* It is really cheap <1000 dollars.
-* Uses 3d printed cycloidal gearboxes which have low backlash and can be fixed really easy.
+* It is cheap <1000 dollars.
+* Uses 3d printed cycloidal gearboxes which have low backlash and can be repaired really easy.
 * All wires are hidden giving it really clean design.
 
 
