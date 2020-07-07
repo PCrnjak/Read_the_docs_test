@@ -3,7 +3,9 @@
 
 <img src="https://user-images.githubusercontent.com/30388414/86795587-028dbb80-c06e-11ea-9d71-3d6fbda6cb87.png" width="1200"> 
 Faze4 is small fully 3d printable diy 6 axis robotic arm. It is functionally and esteticaly similar to robotic arms in industry but is aimed for research, education and 
-anyone interested in making his own robot arm. Main "selling point" of this arm that seperate it from other DIY arms are:
+anyone interested in making his own robot arm. 
+Main "selling point" of this arm that seperate it from other DIY arms are:
+
 
 * It is really cheap <1000 dollars.
 * Uses 3d printed cycloidal gearboxes which have low backlash and can be fixed really easy.
@@ -21,13 +23,14 @@ Whole arm has around 1000 parts (including screws and bearings) and weights arou
 - [High level code (ROS and Matlab)](https://www.google.com/)
 - [Building instructions](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%203.0.pdf)
 - [BOM](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Bom_1.2_joint2_update.xlsx) 
-- [DOCS](https://www.google.com/)
-- [URDF files](https://github.com/PCrnjak/Faze4-Robotic-arm/tree/master/URDF_FAZE4)
+- [DOCS](https://www.google.com/) Contains ALL info about the arm.
+- [URDF files](https://github.com/PCrnjak/Faze4-Robotic-arm/tree/master/URDF_FAZE4) 
 
 # Where to see more Faze4 robotic arm?
 - [Youtube](https://www.youtube.com/channel/UCp3sDRwVkbm7b2M-2qwf5aQ)
-- [Official company page]
+- [Official company page]()
 - [Hackaday](https://hackaday.io/project/167247-faze4-robotic-arm)
+- [DOCS](https://www.google.com/)
 
 
 # Support the project
