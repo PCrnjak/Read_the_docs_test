@@ -17,6 +17,10 @@ Whole arm has around 1000 parts (including screws and bearings) and weights arou
 # Check the arm in action 
 [![Check the arm in action !](https://user-images.githubusercontent.com/30388414/86797452-f86cbc80-c06f-11ea-962e-c3f80d14b41b.png)](https://www.youtube.com/watch?v=OHw6_l_8Tnk)
 
+# Where to start ? 
+
+To build this robotic arm follow [Building instructions](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%203.0.pdf). All general info about robotic arm is in [DOCS](https://www.google.com/). Building instructions go hand in hand and you need to follow both to build this arm. Building instructions are about general mechanical assembly while DOCS contain ALL info ( Electrical wiring, Low level setup, High level ROS and Matlab, tips ...).
+
 # Contents:
 
 - [Low level code](https://www.google.com/)
