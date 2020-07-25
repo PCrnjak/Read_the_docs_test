@@ -12,7 +12,7 @@ Building
 
 * `Full assembly instructions are here`_
 
-.. _Full assembly instructions are here: https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%202.0.pdf
+.. _Full assembly instructions are here: https://github.com/PCrnjak/Faze4-Robotic-arm
 
 
 BOM
