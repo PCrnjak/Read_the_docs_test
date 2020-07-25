@@ -21,7 +21,7 @@ You can find bom in this excel document and in building instructions file.
 
 * `BOM FILE`_
 
-.. _BOM FILE: https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Bom_1.0.xlsx
+.. _BOM FILE: https://github.com/PCrnjak/Faze4-Robotic-arm
 
 .. Tip::
 
