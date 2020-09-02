@@ -53,13 +53,16 @@ On the left side you can see:
 To use it like that in python script edit bottom lines to COM PORT and BAUDRATE you are using!
 
 .. code-block:: python
+   :linenos:
+   
    s.baudrate = 1000000
    s.port = 'COM3'
-  
+
+test test
+   
 .. code-block:: python
    :linenos:
-   :emphasize-lines: 3,5
-
+   
    def some_function():
        interesting = False
        print 'This line is highlighted.'
