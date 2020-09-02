@@ -11,18 +11,18 @@ Run Arduino IDE, go to file/preferences/additional boards manager urls:
 Enter : http://dan.drown.org/stm32duino/package_STM32duino_index.json
 (Any additional json file is sepperated with ,)
 
-.. figure:: ../docs/images/Boards_manager.png
+.. figure:: ../docs/images/Preferences.png
     :figwidth: 650px
-    :target: ../docs/images/Boards_manager.png
+    :target: ../docs/images/Preferences.png
 
 Now go to tools/board/board manager and search for STM32
 Select STM32F1XX/GD32F1XX BOARDS
 (We used version 2020.8.9.)
 
-.. figure:: ../docs/images/Preferences.png
-    :figwidth: 650px
-    :target: ../docs/images/Preferences.png
 
+.. figure:: ../docs/images/Boards_manager.png
+    :figwidth: 650px
+    :target: ../docs/images/Boards_manager.png
 
 Now downlaod needed libraries from S-Drive firmware repo:
 We recommend using versions of libraries from this repo for compatiblitiy.
@@ -33,7 +33,7 @@ Copy needed libs to libraries folder of your Arduino IDE instalation.
 We are almost done!
 
 .. figure:: ../docs/images/STLINK.jpg
-    :figwidth: 650px
+    :figwidth: 300px
     :target: ../docs/images/STLINK.jpg
     
 To program S-Drive BLDC driver board use ST-link.
@@ -44,7 +44,7 @@ https://my.st.com/content/my_st_com/en/products/development-tools/software-devel
 or just drivers here: https://www.st.com/en/development-tools/stsw-link009.html
 
 .. figure:: ../docs/images/FTDI_USB.jpg
-    :figwidth: 650px
+    :figwidth: 300px
     :target: ../docs/images/FTDI_USB.jpg
     
 To acces serial port you need FTDI TO USB board.
