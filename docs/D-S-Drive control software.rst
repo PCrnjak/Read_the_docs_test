@@ -41,7 +41,9 @@ GUI guide
 On the left side you can see:
 * COM PORT: here you enter at what COM port your FTDI to USB board is connected to!
 * BAUDRATE: here you enter baudrate at wich your S-Drive board and control software communicate at.
+
 .. note::
+
     Note BAUDRATE is usually 1000008 or 1000000 in S-Drive Firmware
     
 * Status: Connected - GREEN for connected . RED for NOT connected
