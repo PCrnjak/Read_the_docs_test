@@ -30,8 +30,8 @@ AND at the same time control the motor in few different modes like:
 * Jump to position
 * Voltage mode
 
-GUI guide 
------------------
+GUI guide - left side of screen
+-------------------------------
 
 .. figure:: ../docs/images/control_software.png
     :figwidth: 750px
@@ -39,6 +39,7 @@ GUI guide
     
 
 On the left side you can see:
+
 * COM PORT: here you enter at what COM port your FTDI to USB board is connected to!
 * BAUDRATE: here you enter baudrate at wich your S-Drive board and control software communicate at.
 
@@ -61,10 +62,15 @@ To COM PORT and BAUDRATE you are using!
 * PAUSE pauses serial communication. To resume it PRESS start again!
 * On bottom is tkinter tool to navigate graphs!
 
+GUI guide - Middle of screen
+-----------------------------
+
 On the middle you can select what graph to view!
 Only one can be active at the time, or you can view multiple by selecting "Current,Position and Speed".
 
-On the right side is the control panel.
+GUI guide - Right side of screen
+-----------------------------
+
 Here you can:
 
 * DISABLE MOTOR - turns off MOSFTETS
