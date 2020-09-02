@@ -48,25 +48,29 @@ Start will start serial communication, it can also be used to start wihout enter
 To use it like that in python script in edit:
 
   s.baudrate = 1000000
+  
   s.port = 'COM3'
   
 To COM PORT and BAUDRATE you are using!
-Now if you use that edited script you can always connet to that com port with that baudrate when pressing START.
 
-PAUSE pauses serial communication. To resume it PRESS start again!
+* Now if you use that edited script you can always connet to that com port with that baudrate when pressing START.
+* PAUSE pauses serial communication. To resume it PRESS start again!
+* On bottom is tkinters tool to navigate graphs!
 
-On bottom is tkinters tool to navigate graphs!
-
-On the middle you can select what graph to view!
+ On the middle you can select what graph to view!
 Only one can be active at the time, or you can view multiple by selecting "Current,Position and Speed".
 
 On the right side is the control panel.
 Here you can:
-DISABLE MOTOR - turns off MOSFTETS
-ENABLE MOTOR - Goes to POSITION HOLD on CURRENT POSITION!
-CLEAR ERROR - clears ERROR from motor.
-Note if motor sends it still has error usually it means that temperature is still to high and it will disable 
-itself again
+
+* DISABLE MOTOR - turns off MOSFTETS
+* ENABLE MOTOR - Goes to POSITION HOLD on CURRENT POSITION!
+* CLEAR ERROR - clears ERROR from motor.
+
+.. note::
+    
+    if motor sends it still has error usually it means that temperature is still to high and it will disable 
+    itself again
 
 After CLEAR ERROR are motor modes:
 
@@ -77,7 +81,10 @@ After CLEAR ERROR are motor modes:
 * Speed and direction - Move with desired speed in desired direction
 * Jump to position - Jump to desired position 
 * Voltage mode - Move motor in desired direction my setting voltage to the driver
-note voltage is in value from 0 - 1000 , 0 being zero volt 1000 being power supply voltage (peak)
+
+.. note::
+
+    voltage is in value from 0 - 1000 , 0 being zero volt 1000 being power supply voltage (peak)
 
 Requirements to work!
 ----------------------
