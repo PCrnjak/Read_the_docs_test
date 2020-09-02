@@ -52,9 +52,9 @@ On the left side you can see:
 * Start will start serial communication, it can also be used to start wihout entering COM PORT and BAUDRARE values 
 To use it like that in python script edit bottom lines to COM PORT and BAUDRATE you are using!
 
-  s.baudrate = 1000000
-  
-  s.port = 'COM3'
+.. code-block:: python
+   s.baudrate = 1000000
+   s.port = 'COM3'
   
 To COM PORT and BAUDRATE you are using!
 
