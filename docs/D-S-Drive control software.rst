@@ -34,18 +34,20 @@ GUI guide
 -----------------
 
 .. figure:: ../docs/images/control_software.png
-    :figwidth: 650px
+    :figwidth: 750px
     :target: ../docs/images/control_software.png
     
 
 On the left side you can see:
-COM PORT: here you enter at what COM port your FTDI to USB board is connected to!
-BAUDRATE: here you enter baudrate at wich your S-Drive board and control software communicate at.
-Note it is usually 1000008 or 1000000
-Status: Connected - GREEN for connected . RED for NOT connected
-Telemetry is will print useful data about the motor.
-Start will start serial communication, it can also be used to start wihout entering COM PORT and BAUDRARE values 
-To use it like that in python script in edit:
+* COM PORT: here you enter at what COM port your FTDI to USB board is connected to!
+* BAUDRATE: here you enter baudrate at wich your S-Drive board and control software communicate at.
+.. note::
+    Note BAUDRATE is usually 1000008 or 1000000 in S-Drive Firmware
+    
+* Status: Connected - GREEN for connected . RED for NOT connected
+* Telemetry is will print useful data about the motor.
+* Start will start serial communication, it can also be used to start wihout entering COM PORT and BAUDRARE values 
+To use it like that in python script edit bottom lines to COM PORT and BAUDRATE you are using!
 
   s.baudrate = 1000000
   
@@ -55,9 +57,9 @@ To COM PORT and BAUDRATE you are using!
 
 * Now if you use that edited script you can always connet to that com port with that baudrate when pressing START.
 * PAUSE pauses serial communication. To resume it PRESS start again!
-* On bottom is tkinters tool to navigate graphs!
+* On bottom is tkinter tool to navigate graphs!
 
- On the middle you can select what graph to view!
+On the middle you can select what graph to view!
 Only one can be active at the time, or you can view multiple by selecting "Current,Position and Speed".
 
 On the right side is the control panel.
