@@ -101,6 +101,17 @@ After CLEAR ERROR are motor modes:
 Requirements to work!
 ----------------------
 
+In S-Drive firmware in Motor_parameters file you NEED to adjust :
+
+.. code-block:: python
+   :linenos:
+   
+   uint16_t Main_serial_output_time = 50000;
+   
+Usually it is 10000, but that is to fast for S-Drive control firmware!
+
+
+
 Troubleshooting
 ----------------------
 
