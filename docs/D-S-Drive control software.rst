@@ -57,19 +57,7 @@ To use it like that in python script edit bottom lines to COM PORT and BAUDRATE 
    
    s.baudrate = 1000000
    s.port = 'COM3'
-
-test test
    
-.. code-block:: python
-   :linenos:
-   
-   def some_function():
-       interesting = False
-       print 'This line is highlighted.'
-       print 'This one is not...'
-       print '...but this one is.'
-  
-  
 To COM PORT and BAUDRATE you are using!
 
 * Now if you use that edited script you can always connet to that com port with that baudrate when pressing START.
