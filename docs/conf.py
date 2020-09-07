@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Faze4 Robotic arm documentation'
+project = u'S-Drive project documentation'
 copyright = u'Petar Crnjak , 1.6.2020'
 
 # The version info for the project you're documenting, acts as replacement for
