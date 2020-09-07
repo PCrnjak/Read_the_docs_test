@@ -5,7 +5,8 @@ Driver versions
 .. meta::
    :description lang=en: Driver versions
    
-Latest version: Version 2.0
+S-Drive BLDC driver Version 3.1 (Latest version)
+-------------------------------------------
 
 .. figure:: ../docs/New_images/vs.jpg
     :figwidth: 750px
