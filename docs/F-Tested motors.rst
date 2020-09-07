@@ -37,9 +37,9 @@ GM7008H Brushless Motor
 2804 Brushless Motor
 --------------------------
 
-.. figure:: ../docs/New_images/GM7008H.jpg
+.. figure:: ../docs/New_images/2804.jpg
     :figwidth: 400
-    :target: ../docs/New_images/GM7008H.jpg
+    :target: ../docs/New_images/2804.jpg
       
 +----+------------+------------+
 | kv | Pole pairs | Resistance |
