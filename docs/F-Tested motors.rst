@@ -48,7 +48,7 @@ GM7008H Brushless Motor
 +----+------------+------------+
 
 
-2804 Brushless Motor
+ 5010 150T Gimbal Brushless Motor
 --------------------------
 
 .. figure:: ../docs/New_images/5010.jpg
