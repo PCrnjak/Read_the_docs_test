@@ -23,8 +23,3 @@ What does S-Drive project consist of?
 * S-Drive BLDC driver control software- lets you control and monitor motor connected to S-Drive BLDC driver!
 
 
-Tested Motors
-=======================================
-
-.. meta::
-   :description lang=en: Tested motors
