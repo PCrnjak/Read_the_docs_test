@@ -9,7 +9,7 @@ S-Drive BLDC driver Version 3.1 (Latest version)
 -------------------------------------------
 
 .. figure:: ../docs/New_images/vs.jpg
-    :figwidth: 750px
+    :figwidth: 550px
     :target: ../docs/New_images/vs.jpg
     
 Whole S-Drive project started in july 2019 with simple breadboard prototype.
@@ -19,7 +19,7 @@ but to do that size was needed to be reduced.
 S-Drive BLDC driver version 1  (August 2019)
 ------------------------------
 .. figure:: ../docs/New_images/v1.jpg
-    :figwidth: 750px
+    :figwidth: 550px
     :target: ../docs/New_images/v1.jpg
     
 First version was large and mostly made for prototyping and testing features.
@@ -33,7 +33,7 @@ This board was hand assembled. It uses 0805 components.
 S-Drive BLDC driver version 2  (December 2019)
 ------------------------------
 .. figure:: ../docs/New_images/v2.jpg
-    :figwidth: 750px
+    :figwidth: 550px
     :target: ../docs/New_images/v2.jpg
 
 Second version is much smaller and looks similar to V3 but in reality it is more similar to first version.
@@ -44,7 +44,7 @@ This version was assembled by machines and uses 0603 components.
 S-Drive BLDC driver version 3 rev1  (July 2020)
 -----------------------------------------------
 .. figure:: ../docs/New_images/v3.jpg
-    :figwidth: 750px
+    :figwidth: 550px
     :target: ../docs/New_images/v3.jpg
 
 This is third version of S-Drive, it is newest and stable version where everything is working.
