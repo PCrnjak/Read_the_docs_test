@@ -2,24 +2,23 @@ About S-Drive project
 =======================================
 
 .. meta::
-   :description lang=en: Arduino IDE setup for S-Drive firmware
+   :description lang=en: About S-Drive project
 
-Firs download Arduino IDE from official website: 
-(Version we are running is 1.8.13)
+What is S-Drive project?
+---------------------------
 
-Run Arduino IDE, go to file/preferences/additional boards manager urls:
-Enter : http://dan.drown.org/stm32duino/package_STM32duino_index.json
-(Any additional json file is sepperated with ,)
+S-Drive project is open-source project with aim to make good BLDC control for robotics cheap and available to everybody.
+Primary use for this project is in: Compliant robotic arms, dynamic walker robots, camera gimbals ...
+Goal is to make everything simple to use and integrated but at the same time allow a lot of experimentation and ability for advanced development!
 
-.. figure:: ../docs/images/Preferences.png
-    :figwidth: 650px
-    :target: ../docs/images/Preferences.png
+What does S-Drive project consist of?
+--------------------------------------
 
-Now go to tools/board/board manager and search for STM32
-Select STM32F1XX/GD32F1XX BOARDS
-(We used version 2020.8.9.)
+* S-Drive BLDC driver board - is small BLDC driver board with all needed functions integrated in!
+//slika///
 
+* S-Drive BLDC driver firmware- is 
+//slika///
 
-.. figure:: ../docs/images/Boards_manager.png
-    :figwidth: 650px
-    :target: ../docs/images/Boards_manager.png
+* S-Drive BLDC driver control software- 
+//slika///
