@@ -29,6 +29,19 @@ What does S-Drive project consist of?
 .. figure:: ../docs/images/control_software.png
     :figwidth: 750px
     :target: ../docs/images/control_software.png
+    
+    
+Table of contents
+------------------
 
+Support the project
+-------------------
 
+This project is completely Open source and free to all and I would like to keep it that way, so any help 
+in terms of donations or advice is really appreciated. Thank you!
 
+.. image:: ../docs/images/PayPal-Donate-Button-PNG-Clipart.png
+   :width: 230
+   :target: https://paypal.me/PCrnjak?locale.x=en_US
+   
+   
