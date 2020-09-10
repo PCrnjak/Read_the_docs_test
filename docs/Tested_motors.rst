@@ -16,11 +16,3 @@ GB4114 Brushless Motor
 
 
 
-GM7008H Brushless Motor
---------------------------
-
-.. figure:: ../docs/New_images/GM7008H.jpg
-    :figwidth: 100
-    :target: ../docs/New_images/GM7008H.jpg
-      
-
