@@ -30,7 +30,7 @@ What does S-Drive project consist of?
     :figwidth: 750px
     :target: ../docs/images/control_software.png
     
-    
+        
 Table of contents
 ------------------
 
