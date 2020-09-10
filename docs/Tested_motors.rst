@@ -9,9 +9,9 @@ Tested Motors
 GB4114 Brushless Motor
 --------------------------
 
-.. figure:: ../docs/New_images/GM7008H.jpg
+.. figure:: ../docs/New_images/GB4114.png
     :figwidth: 400
-    :target: ../docs/New_images/GM7008H.jpg
+    :target: ../docs/New_images/GB4114.png
     
 +----+------------+------------+
 | kv | Pole pairs | Resistance |
