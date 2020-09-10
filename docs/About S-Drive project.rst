@@ -16,10 +16,19 @@ What does S-Drive project consist of?
 
 * S-Drive BLDC driver board - is small BLDC driver board with all needed functions integrated in!
 
+.. figure:: ../docs/New_images/v3.jpg
+    :figwidth: 550px
+    :target: ../docs/New_images/v3.jpg
 
-* S-Drive BLDC driver firmware- is specialy developed for S-Drive BLDC driver board.
+
+* S-Drive BLDC driver firmware- is firmware specially developed for S-Drive BLDC driver board.
 
 
 * S-Drive BLDC driver control software- lets you control and monitor motor connected to S-Drive BLDC driver!
+
+.. figure:: ../docs/images/control_software.png
+    :figwidth: 750px
+    :target: ../docs/images/control_software.png
+
 
 
