@@ -50,7 +50,6 @@ or just drivers here: https://www.st.com/en/development-tools/stsw-link009.html
 To acces serial port you need FTDI TO USB board.
 Windows 10 will usually download drivers alone, but if it does not download them from  here:
 https://www.ftdichip.com/Drivers/VCP.htm
-https://www.youtube.com/watch?v=eyoey66EU9w
 
 Troubleshooting
 -----------------
